@@ -87,7 +87,6 @@ public class CheckElgblty
     System.out.println("Your elligible for interview");
    }
    }
-
     public static void main(String[] args) {
         Scanner s=new Scanner(System.in);
         System.out.println("Qualification Code");
@@ -106,7 +105,4 @@ public class CheckElgblty
         check();
         s.close();
     }
-       
-    
-    
 }
